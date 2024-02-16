@@ -6,6 +6,7 @@
 + [光センサ](../Arduino/Test_Light)
 + [カメラ](../Arduino/Test_Camera2)
 + [マイク](../Arduino/Test_Microphone)
++ [超音波測距センサ](../Arduino/Test_UltrasonicDistanceSensor)
 + [サーボモータ](../Arduino/Test_Servo)
 + [DCモータ](../Arduino/Test_DCMotor)
 + [SDカード](../Arduino/Test_SD)
