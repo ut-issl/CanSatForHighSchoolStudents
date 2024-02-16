@@ -1,11 +1,7 @@
 <!-- README.md -->
 # 高校生のためのCanSat開発キット
-CanSat for High School Students  
+CanSat for High School Students
 高校生のためのCanSat開発キット
-
-## リンク
-[GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)  
-[Web Page](https://meltingrabbit.github.io/CanSatForHighSchoolStudents/)
 
 ## 概要
 + 高校生向け缶サット開発キット
@@ -104,15 +100,11 @@ Ver.2 から，半導体不足等で入手困難なセンサ類を変更した�
 	- [ユニ基板詳細](./Structure/board)
 	- [電源スイッチ](./Structure/switch)
 	- [テスタ](./Structure/tester)
-+ `./Archives` ：アーカイブ
-	- [2020年02月22～23日 缶サットHigh School 「缶サット電子系講座」](./Archives/2020-02-22_Fukui)
-	- [2021年06月19～20日 缶サットHigh School 「缶サット構造系講座」](./Archives/2021-06-19_Fukui)
-	- [2022年03月19～20日 缶サットHigh School 「缶サット電子系講座」](./Archives/2022-03-19_Fukui)
-	- [2023年02月18～19日 缶サットHigh School 「缶サット電子系講座」](./Archives/2023-02-18_Fukui)
 
-## ブログ
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2020年度版 @福井 [2020/02/23]](https://meltingrabbit.com/blog/article/2020022301/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2020年度版 @福井 [2020/10/25]](https://meltingrabbit.com/blog/article/2020102501/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2021年度版 @福井 [2021/02/14]](https://meltingrabbit.com/blog/article/2021021401/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2021年度版 @福井 [2021/06/20]](https://meltingrabbit.com/blog/article/2021062001/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系・構造系講座 2022年度版 @福井 [2022/06/19]](https://meltingrabbit.com/blog/article/2022061901/)
+## 関連リンク
+
+- CanSat High School での過去の成果物
+  - [cansat-high-school_archives](https://github.com/ut-issl/cansat-high-school_archives)
+- 過去資料
+  - [GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)
+  - [Web Page](https://meltingrabbit.github.io/CanSatForHighSchoolStudents/)
