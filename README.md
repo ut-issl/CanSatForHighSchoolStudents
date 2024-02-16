@@ -3,10 +3,6 @@
 CanSat for High School Students
 高校生のためのCanSat開発キット
 
-## リンク
-[GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)
-[Web Page](https://meltingrabbit.github.io/CanSatForHighSchoolStudents/)
-
 ## 概要
 + 高校生向け缶サット開発キット
 + [Arduino Nano Every](https://store.arduino.cc/usa/nano-every-with-headers)を想定
@@ -109,10 +105,6 @@ Ver.2 から，半導体不足等で入手困難なセンサ類を変更した�
 
 - CanSat High School での過去の成果物
   - [cansat-high-school_archives](https://github.com/ut-issl/cansat-high-school_archives)
-
-### ブログ
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2020年度版 @福井 [2020/02/23]](https://meltingrabbit.com/blog/article/2020022301/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2020年度版 @福井 [2020/10/25]](https://meltingrabbit.com/blog/article/2020102501/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2021年度版 @福井 [2021/02/14]](https://meltingrabbit.com/blog/article/2021021401/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2021年度版 @福井 [2021/06/20]](https://meltingrabbit.com/blog/article/2021062001/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系・構造系講座 2022年度版 @福井 [2022/06/19]](https://meltingrabbit.com/blog/article/2022061901/)
+- 過去資料
+  - [GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)
+  - [Web Page](https://meltingrabbit.github.io/CanSatForHighSchoolStudents/)
