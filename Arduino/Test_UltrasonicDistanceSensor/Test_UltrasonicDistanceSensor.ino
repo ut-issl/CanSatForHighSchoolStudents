@@ -1,7 +1,7 @@
 #include "UltrasonicDistanceSensor.h"
 
-#define PIN_TRIGGER 2
-#define PIN_ECHO 3
+#define PIN_TRIGGER 9
+#define PIN_ECHO 17
 
 UltrasonicDistanceSensor distance_sensor{PIN_TRIGGER, PIN_ECHO};
 
