@@ -104,7 +104,7 @@ Ver.2 から，半導体不足等で入手困難なセンサ類を変更した�
 ## 関連リンク
 
 - CanSat High School での過去の成果物
-  - [cansat-high-school_archives](https://github.com/ut-issl/cansat-high-school_archives)
+  - [cansat-school-archives](https://github.com/ut-issl/cansat-school-archives)
 - 過去資料
   - [GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)
   - [Web Page](https://meltingrabbit.github.io/CanSatForHighSchoolStudents/)
