@@ -5,7 +5,7 @@ CanSat for High School Students
 
 ## リンク
 [Arduino Library](https://github.com/ut-issl/cansat-high-school_arduino-lib)  
-[Web Page](https://cansat-high-school.ut-issl.com/)  
+[Web Page](https://cansat-school.ut-issl.com/)  
 [過去資料](https://github.com/ut-issl/cansat-high-school_archives)
 
 ### 旧リンク
